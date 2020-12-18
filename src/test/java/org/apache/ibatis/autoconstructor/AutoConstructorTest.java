@@ -31,6 +31,9 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+/**
+ * 单元测试test
+ */
 class AutoConstructorTest {
   private static SqlSessionFactory sqlSessionFactory;
 
